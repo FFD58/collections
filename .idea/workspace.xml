@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fe983cd8-e32d-4902-a425-7a7cef97153d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +37,16 @@
     "last_opened_file_path": "V:/JavaProjects/Collections/src/main/java/ru/fafurin"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\Collections\src\main\java\ru\fafurin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson5" />
+      <recent name="ru.fafurin.lesson2" />
+      <recent name="ru.fafurin.lesson1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
